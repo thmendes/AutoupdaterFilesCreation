@@ -1,0 +1,14 @@
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\bin\Debug\net8.0\AutoupdaterFilesCreation.exe
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\bin\Debug\net8.0\AutoupdaterFilesCreation.deps.json
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\bin\Debug\net8.0\AutoupdaterFilesCreation.runtimeconfig.json
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\bin\Debug\net8.0\AutoupdaterFilesCreation.dll
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\bin\Debug\net8.0\AutoupdaterFilesCreation.pdb
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\AutoupdaterFilesCreation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\AutoupdaterFilesCreation.AssemblyInfoInputs.cache
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\AutoupdaterFilesCreation.AssemblyInfo.cs
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\AutoupdaterFilesCreation.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\AutoupdaterFilesCreation.dll
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\refint\AutoupdaterFilesCreation.dll
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\AutoupdaterFilesCreation.pdb
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\AutoupdaterFilesCreation.genruntimeconfig.cache
+C:\Users\Thiago\repositorios\AutoupdaterFilesCreation\AutoupdaterFilesCreation\obj\Debug\net8.0\ref\AutoupdaterFilesCreation.dll
